@@ -1,1 +1,9 @@
-
+faicons 
+pandas 
+shiny
+shinylive 
+shinywidgets 
+pandas
+plotly
+ridgeplot
+shinyswatch
