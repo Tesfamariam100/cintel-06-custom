@@ -1,28 +1,28 @@
-# cintel-06-custom
-# Waiter's Tips - Bryant, P. G. and Smith, M (1995) Practical Data Analysis: Case # Studies in Business Statistics. Homewood, IL: Richard D. Irwin Publishing
+## cintel-06-custom
+* Waiter's Tips - Bryant, P. G. and Smith, M (1995) Practical Data Analysis: Case # Studies in Business Statistics. Homewood, IL: Richard D. Irwin Publishing
 
 
-# import data
+#### import data
 
-# Add page title and sidebar
-
-
-# Define reactive calc.
+#### Add page title and sidebar
 
 
-# define shiny express UI
+#### Define reactive calc.
 
- # Over all page options
- # sidebar
- # the main sections with UI cards, value boxes spaces for grides and chats
-# your app should have data source and scatched out of the basic functionality
-# before you began
 
-# Before you begin:
-# Create, Activate, install requirements in to the local project
-# venv.
-# Remember to activate the venv every time you open the terminal window
-# cutomize your requirements 
-# add the packages to the requirements.txt
-# Implement your customized app
+#### define shiny express UI
+
+ #### Over all page options
+ * sidebar
+ * the main sections with UI cards, value boxes spaces for grides and chats
+* your app should have data source and scatched out of the basic functionality
+
+#### before you began:
+
+* Create, Activate, install requirements in to the local project
+* venv.
+* Remember to activate the venv every time you open the terminal window
+* cutomize your requirements 
+* add the packages to the requirements.txt
+* Implement your customized app
 
